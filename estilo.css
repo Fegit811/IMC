@@ -1,0 +1,32 @@
+/* Resetando alguns estilos padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    background-color: pink;
+    display: grid;
+    justify-content: center;
+    align-items: start;
+    height: 60vh;
+}
+
+
+
+header h1 {
+    font-size: 1.8rem;
+    color: black;
+    margin-bottom: 50px;
+}
+
+
+
+label {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+}
+
